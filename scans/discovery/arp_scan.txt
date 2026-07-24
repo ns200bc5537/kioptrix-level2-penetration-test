@@ -1,0 +1,9 @@
+Interface: eth0, type: EN10MB, MAC: 00:0c:29:8a:39:a8, IPv4: 192.168.217.132
+Starting arp-scan 1.10.0 with 256 hosts (https://github.com/royhills/arp-scan)
+192.168.217.1	00:50:56:c0:00:08	VMware, Inc.
+192.168.217.2	00:50:56:e8:37:62	VMware, Inc.
+192.168.217.136	00:0c:29:53:19:4c	VMware, Inc.
+192.168.217.254	00:50:56:e2:61:6a	VMware, Inc.
+
+4 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.10.0: 256 hosts scanned in 2.096 seconds (122.14 hosts/sec). 4 responded
