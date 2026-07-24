@@ -1,0 +1,13 @@
+Starting Nmap 7.99SVN ( https://nmap.org ) at 2026-07-24 12:00 -0700
+Nmap scan report for 192.168.217.136
+Host is up (0.00043s latency).
+
+PORT   STATE SERVICE
+22/tcp open  ssh
+| ssh-hostkey: 
+|   1024 8f:3e:8b:1e:58:63:fe:cf:27:a3:18:09:3b:52:cf:72 (RSA1)
+|   1024 34:6b:45:3d:ba:ce:ca:b2:53:55:ef:1e:43:70:38:36 (DSA)
+|_  1024 68:4d:8c:bb:b6:5a:bd:79:71:b8:71:47:ea:00:42:61 (RSA)
+MAC Address: 00:0C:29:53:19:4C (VMware)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.89 seconds

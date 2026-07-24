@@ -1,0 +1,32 @@
+debug1: OpenSSH_10.3p1 Debian-4, OpenSSL 3.6.3 9 Jun 2026
+debug1: Reading configuration data /etc/ssh/ssh_config
+debug1: Reading configuration data /etc/ssh/ssh_config.d/20-systemd-ssh-proxy.conf
+debug1: /etc/ssh/ssh_config line 21: Applying options for *
+debug1: Connecting to 192.168.217.136 [192.168.217.136] port 22.
+debug1: Connection established.
+debug1: no pubkey loaded from /root/.ssh/id_rsa
+debug1: identity file /root/.ssh/id_rsa type -1
+debug1: no identity pubkey loaded from /root/.ssh/id_rsa
+debug1: no pubkey loaded from /root/.ssh/id_ecdsa
+debug1: identity file /root/.ssh/id_ecdsa type -1
+debug1: no identity pubkey loaded from /root/.ssh/id_ecdsa
+debug1: no pubkey loaded from /root/.ssh/id_ecdsa_sk
+debug1: identity file /root/.ssh/id_ecdsa_sk type -1
+debug1: no identity pubkey loaded from /root/.ssh/id_ecdsa_sk
+debug1: no pubkey loaded from /root/.ssh/id_ed25519
+debug1: identity file /root/.ssh/id_ed25519 type -1
+debug1: no identity pubkey loaded from /root/.ssh/id_ed25519
+debug1: no pubkey loaded from /root/.ssh/id_ed25519_sk
+debug1: identity file /root/.ssh/id_ed25519_sk type -1
+debug1: no identity pubkey loaded from /root/.ssh/id_ed25519_sk
+debug1: Local version string SSH-2.0-OpenSSH_10.3p1 Debian-4
+debug1: Remote protocol version 1.99, remote software version OpenSSH_3.9p1
+debug1: compat_banner: match: OpenSSH_3.9p1 pat OpenSSH_3.* compat 0x01000002
+debug1: Authenticating to 192.168.217.136:22 as 'root'
+debug1: load_hostkeys: fopen /root/.ssh/known_hosts2: No such file or directory
+debug1: load_hostkeys: fopen /etc/ssh/ssh_known_hosts: No such file or directory
+debug1: load_hostkeys: fopen /etc/ssh/ssh_known_hosts2: No such file or directory
+debug1: SSH2_MSG_KEXINIT sent
+debug1: SSH2_MSG_KEXINIT received
+debug1: kex: algorithm: (no match)
+Unable to negotiate with 192.168.217.136 port 22: no matching key exchange method found. Their offer: diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1

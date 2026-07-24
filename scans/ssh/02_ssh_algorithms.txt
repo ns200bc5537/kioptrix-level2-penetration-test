@@ -1,0 +1,39 @@
+Starting Nmap 7.99SVN ( https://nmap.org ) at 2026-07-24 11:53 -0700
+Nmap scan report for 192.168.217.136
+Host is up (0.00051s latency).
+
+PORT   STATE SERVICE
+22/tcp open  ssh
+| ssh2-enum-algos: 
+|   kex_algorithms: (3)
+|       diffie-hellman-group-exchange-sha1
+|       diffie-hellman-group14-sha1
+|       diffie-hellman-group1-sha1
+|   server_host_key_algorithms: (2)
+|       ssh-rsa
+|       ssh-dss
+|   encryption_algorithms: (11)
+|       aes128-cbc
+|       3des-cbc
+|       blowfish-cbc
+|       cast128-cbc
+|       arcfour
+|       aes192-cbc
+|       aes256-cbc
+|       rijndael-cbc@lysator.liu.se
+|       aes128-ctr
+|       aes192-ctr
+|       aes256-ctr
+|   mac_algorithms: (6)
+|       hmac-md5
+|       hmac-sha1
+|       hmac-ripemd160
+|       hmac-ripemd160@openssh.com
+|       hmac-sha1-96
+|       hmac-md5-96
+|   compression_algorithms: (2)
+|       none
+|_      zlib
+MAC Address: 00:0C:29:53:19:4C (VMware)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.75 seconds
