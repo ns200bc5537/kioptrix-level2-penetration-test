@@ -1,0 +1,15 @@
+# Nmap 7.99 scan initiated Fri Jul 24 11:36:48 2026 as: /usr/lib/nmap/nmap -T4 -p- -oA scans/nmap/01_tcp_full 192.168.217.136
+Nmap scan report for 192.168.217.136
+Host is up (0.0021s latency).
+Not shown: 65528 closed tcp ports (reset)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+111/tcp  open  rpcbind
+443/tcp  open  https
+631/tcp  open  ipp
+873/tcp  open  rsync
+3306/tcp open  mysql
+MAC Address: 00:0C:29:53:19:4C (VMware)
+
+# Nmap done at Fri Jul 24 11:36:57 2026 -- 1 IP address (1 host up) scanned in 9.37 seconds

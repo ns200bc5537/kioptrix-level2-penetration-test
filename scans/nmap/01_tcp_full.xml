@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.99 scan initiated Fri Jul 24 11:36:48 2026 as: /usr/lib/nmap/nmap -T4 -p- -oA scans/nmap/01_tcp_full 192.168.217.136 -->
+<nmaprun scanner="nmap" args="/usr/lib/nmap/nmap -T4 -p- -oA scans/nmap/01_tcp_full 192.168.217.136" start="1784918208" startstr="Fri Jul 24 11:36:48 2026" version="7.99" xmloutputversion="1.05">
+<scaninfo type="syn" protocol="tcp" numservices="65535" services="1-65535"/>
+<verbose level="0"/>
+<debugging level="0"/>
+<hosthint><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.217.136" addrtype="ipv4"/>
+<address addr="00:0C:29:53:19:4C" addrtype="mac" vendor="VMware"/>
+<hostnames>
+</hostnames>
+</hosthint>
+<host starttime="1784918209" endtime="1784918217"><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.217.136" addrtype="ipv4"/>
+<address addr="00:0C:29:53:19:4C" addrtype="mac" vendor="VMware"/>
+<hostnames>
+</hostnames>
+<ports><extraports state="closed" count="65528">
+<extrareasons reason="reset" count="65528" proto="tcp" ports="1-21,23-79,81-110,112-442,444-630,632-872,874-3305,3307-65535"/>
+</extraports>
+<port protocol="tcp" portid="22"><state state="open" reason="syn-ack" reason_ttl="64"/><service name="ssh" method="table" conf="3"/></port>
+<port protocol="tcp" portid="80"><state state="open" reason="syn-ack" reason_ttl="64"/><service name="http" method="table" conf="3"/></port>
+<port protocol="tcp" portid="111"><state state="open" reason="syn-ack" reason_ttl="64"/><service name="rpcbind" method="table" conf="3"/></port>
+<port protocol="tcp" portid="443"><state state="open" reason="syn-ack" reason_ttl="64"/><service name="https" method="table" conf="3"/></port>
+<port protocol="tcp" portid="631"><state state="open" reason="syn-ack" reason_ttl="64"/><service name="ipp" method="table" conf="3"/></port>
+<port protocol="tcp" portid="873"><state state="open" reason="syn-ack" reason_ttl="64"/><service name="rsync" method="table" conf="3"/></port>
+<port protocol="tcp" portid="3306"><state state="open" reason="syn-ack" reason_ttl="64"/><service name="mysql" method="table" conf="3"/></port>
+</ports>
+<times srtt="2076" rttvar="858" to="100000"/>
+</host>
+<runstats><finished time="1784918217" timestr="Fri Jul 24 11:36:57 2026" summary="Nmap done at Fri Jul 24 11:36:57 2026; 1 IP address (1 host up) scanned in 9.37 seconds" elapsed="9.37" exit="success"/><hosts up="1" down="0" total="1"/>
+</runstats>
+</nmaprun>
