@@ -1,0 +1,16 @@
+## Phase 4 – Web Enumeration
+
+The web application was manually inspected and fingerprinted using HTTP headers, WhatWeb, Gobuster, Nikto, and Searchsploit.
+
+Enumeration identified:
+
+- Apache 2.0.52
+- PHP 4.3.9
+- Login portal
+- Apache documentation exposed
+- HTTP TRACE enabled
+- Missing security headers
+- Directory indexing
+- Public exploits available for the detected software versions
+
+These findings indicate the target is running outdated software with multiple publicly documented vulnerabilities that warrant further investigation.
