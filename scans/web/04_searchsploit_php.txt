@@ -1,0 +1,142 @@
+-------------------------------------------------------- ---------------------------------
+ Exploit Title                                          |  Path
+-------------------------------------------------------- ---------------------------------
+ADODB < 4.70 ([01;31m[KPHP[m[KOpenChat 3.0.x) - 'Server.[01;31m[Kphp[m[K' SQL Inj | [01;31m[Kphp[m[K/webapps/1652.[01;31m[Kphp[m[K
+ADODB < 4.70 - 'tmssql.[01;31m[Kphp[m[K' Denial of Service           | [01;31m[Kphp[m[K/dos/1651.[01;31m[Kphp[m[K
+ADOdb < 4.71 - Cross Site Scripting                     | [01;31m[Kphp[m[K/webapps/43832.txt
+AlefMentor 2.0 < 5.0 - 'id' SQL Injection               | [01;31m[Kphp[m[K/webapps/10358.txt
+AlienVault OSSIM/USM < 5.3.1 - Remote Code Execution (M | [01;31m[Kphp[m[K/webapps/41424.rb
+Alqatari group 1.0 < 5.0 - 'id' SQL Injection           | [01;31m[Kphp[m[K/webapps/10357.txt
+Apache + [01;31m[KPHP[m[K < 5.3.12 / < 5.4.2 - cgi-bin Remote Code E | [01;31m[Kphp[m[K/remote/29290.c
+Apache + [01;31m[KPHP[m[K < 5.3.12 / < 5.4.2 - Remote Code Execution | [01;31m[Kphp[m[K/remote/29316.py
+Axigen < 10.5.7 - Persistent Cross-Site Scripting       | [01;31m[Kphp[m[K/webapps/51963.txt
+Bacula-Web 1.3.x < 5.0.3 - Multiple Vulnerabilities     | [01;31m[Kphp[m[K/webapps/16935.txt
+Bacula-Web < 8.0.0-rc2 - SQL Injection                  | [01;31m[Kphp[m[K/webapps/44272.txt
+BookingWizz Booking System < 5.5 - Multiple Vulnerabili | [01;31m[Kphp[m[K/webapps/39955.txt
+BoxBilling<=4.22.1.5 - Remote Code Execution (RCE)      | [01;31m[Kphp[m[K/webapps/51108.txt
+CometChat < 6.2.0 BETA 1 - Local File Inclusion         | [01;31m[Kphp[m[K/webapps/43027.txt
+Composr-CMS Version <=10.0.39 - Authenticated Remote Co | [01;31m[Kphp[m[K/webapps/51060.txt
+Concrete CMS < 5.5.21 - Multiple Vulnerabilities        | [01;31m[Kphp[m[K/webapps/37225.pl
+Concrete5 CMS < 5.4.2.1 - Multiple Vulnerabilities      | [01;31m[Kphp[m[K/webapps/17925.txt
+Concrete5 CMS < 8.3.0 - Username / Comments Enumeration | [01;31m[Kphp[m[K/webapps/44194.py
+cPanel < 11.25 - Cross-Site Request Forgery (Add User P | [01;31m[Kphp[m[K/webapps/17330.html
+DeDeCMS < 5.7-sp1 - Remote File Inclusion               | [01;31m[Kphp[m[K/webapps/37423.txt
+Dolibarr ERP/CRM < 7.0.3 - [01;31m[KPHP[m[K Code Injection           | [01;31m[Kphp[m[K/webapps/44964.txt
+Drupal < 4.7.6 - Post Comments Remote Command Execution | [01;31m[Kphp[m[K/webapps/3313.pl
+Drupal < 5.1 - Post Comments Remote Command Execution   | [01;31m[Kphp[m[K/webapps/3312.pl
+Drupal < 5.22/6.16 - Multiple Vulnerabilities           | [01;31m[Kphp[m[K/webapps/33706.txt
+Drupal < 7.34 - Denial of Service                       | [01;31m[Kphp[m[K/dos/35415.txt
+Drupal < 7.58 - 'Drupalgeddon3' (Authenticated) Remote  | [01;31m[Kphp[m[K/webapps/44542.txt
+Drupal < 7.58 - 'Drupalgeddon3' (Authenticated) Remote  | [01;31m[Kphp[m[K/webapps/44557.rb
+Drupal < 7.58 - 'Drupalgeddon3' (Authenticated) Remote  | [01;31m[Kphp[m[K/webapps/44557.rb
+Drupal < 7.58 / < 8.3.9 / < 8.4.6 / < 8.5.1 - 'Drupalge | [01;31m[Kphp[m[K/webapps/44449.rb
+Drupal < 8.3.9 / < 8.4.6 / < 8.5.1 - 'Drupalgeddon2' Re | [01;31m[Kphp[m[K/remote/44482.rb
+Drupal < 8.3.9 / < 8.4.6 / < 8.5.1 - 'Drupalgeddon2' Re | [01;31m[Kphp[m[K/remote/44482.rb
+Drupal < 8.3.9 / < 8.4.6 / < 8.5.1 - 'Drupalgeddon2' Re | [01;31m[Kphp[m[K/webapps/44448.py
+Drupal < 8.5.11 / < 8.6.10 - RESTful Web Services unser | [01;31m[Kphp[m[K/remote/46510.rb
+Drupal < 8.5.11 / < 8.6.10 - RESTful Web Services unser | [01;31m[Kphp[m[K/remote/46510.rb
+Drupal < 8.6.10 / < 8.5.11 - REST Module Remote Code Ex | [01;31m[Kphp[m[K/webapps/46452.txt
+Drupal < 8.6.9 - REST Module Remote Code Execution      | [01;31m[Kphp[m[K/webapps/46459.py
+Drupal Module Coder < 7.x-1.3/7.x-2.6 - Remote Code Exe | [01;31m[Kphp[m[K/remote/40144.[01;31m[Kphp[m[K
+FileRun < 2017.09.18 - SQL Injection                    | [01;31m[Kphp[m[K/webapps/42922.py
+FlightPath < 4.8.2 / < 5.0-rc2 - Local File Inclusion   | [01;31m[Kphp[m[K/webapps/47121.txt
+Fozzcom Shopping < 7.94 / < 8.04 - Multiple Vulnerabili | [01;31m[Kphp[m[K/webapps/15571.txt
+FreePBX < 13.0.188 - Remote Command Execution (Metasplo | [01;31m[Kphp[m[K/remote/40434.rb
+GForge < 4.6b2 - 'skill_delete' SQL Injection           | [01;31m[Kphp[m[K/webapps/4404.txt
+Hide My WP < 6.2.9 - Unauthenticated SQLi               | [01;31m[Kphp[m[K/webapps/51871.txt
+IceWarp Mail Server < 11.1.1 - Directory Traversal      | [01;31m[Kphp[m[K/webapps/44587.txt
+ILIAS < 5.2.4 - Cross-Site Scripting                    | [01;31m[Kphp[m[K/webapps/43595.txt
+ILIAS eLearning CMS 4.3.4 < 4.4 - Persistent Cross-Site | [01;31m[Kphp[m[K/webapps/29265.txt
+Interspire Email Marketer < 6.1.6 - Remote Admin Authen | [01;31m[Kphp[m[K/webapps/44513.py
+Interspire Knowledge Manager < 5.1.3 - Multiple Remote  | [01;31m[Kphp[m[K/webapps/33595.txt
+Jcow Social Networking Script 4.2 < 5.2 - Arbitrary Cod | [01;31m[Kphp[m[K/webapps/17722.rb
+JFrog Artifactory < 7.25.4 - Blind SQL Injection        | [01;31m[Kphp[m[K/webapps/51806.py
+Joomla! Component Article Factory Manager [01;31m[K4.3.9[m[K - SQL I | [01;31m[Kphp[m[K/webapps/45477.txt
+KACE System Management Appliance (SMA) < 9.0.270 - Mult | [01;31m[Kphp[m[K/webapps/46956.txt
+Kaltura < 13.2.0 - Remote Code Execution                | [01;31m[Kphp[m[K/webapps/43028.py
+Kaltura Community Edition < 11.1.0-2 - Multiple Vulnera | [01;31m[Kphp[m[K/webapps/39563.txt
+Kerio WinRoute Firewall Web Server < 6 - Source Code Di | [01;31m[Kphp[m[K/webapps/18857.txt
+kk Star Ratings < 5.4.6 - Rating Tampering via Race Con | [01;31m[Kphp[m[K/webapps/51859.txt
+Mambo < 4.5 - Multiple Vulnerabilities                  | [01;31m[Kphp[m[K/webapps/43804.txt
+Mambo < 4.5.3h - Multiple Vulnerabilities               | [01;31m[Kphp[m[K/webapps/43835.txt
+Mambo < 4.5.4 - SQL Injection                           | [01;31m[Kphp[m[K/webapps/43843.txt
+Micro Focus Secure Messaging Gateway (SMG) < 471 - Remo | [01;31m[Kphp[m[K/webapps/45083.rb
+Micro Focus Secure Messaging Gateway (SMG) < 471 - Remo | [01;31m[Kphp[m[K/webapps/45083.rb
+NEX-Forms WordPress plugin < 7.9.7 - Authenticated SQLi | [01;31m[Kphp[m[K/webapps/51042.txt
+NPDS < 08.06 - Multiple Input Validation Vulnerabilitie | [01;31m[Kphp[m[K/webapps/32689.txt
+Nuevomailer < 6.0 - SQL Injection                       | [01;31m[Kphp[m[K/webapps/42164.txt
+OPNsense < 19.1.1 - Cross-Site Scripting                | [01;31m[Kphp[m[K/webapps/46351.txt
+OXID eShop < 4.7.11/5.0.11 / < 4.8.4/5.1.4 - Multiple V | [01;31m[Kphp[m[K/webapps/32375.txt
+Phorum < 5.0.3 Beta - Cross Site Scripting              | [01;31m[Kphp[m[K/webapps/43802.txt
+PhotoPost < 4.6 - Multiple Vulnerabilities              | [01;31m[Kphp[m[K/webapps/43808.txt
+PhotoPost < 4.85 - Multiple Vulnerabilities             | [01;31m[Kphp[m[K/webapps/43822.txt
+[01;31m[KPHP[m[K 3 < 5 - Ini_Restore() 'Safe_mode' / 'open_basedir'  | [01;31m[Kphp[m[K/local/28504.[01;31m[Kphp[m[K
+[01;31m[KPHP[m[K 3 < 5 - ZendEngine ECalloc Integer Overflow         | [01;31m[Kphp[m[K/remote/28760.[01;31m[Kphp[m[K
+[01;31m[KPHP[m[K 3/4/5 - Multiple Local/Remote Vulnerabilities (1)   | [01;31m[Kphp[m[K/dos/24854.txt
+[01;31m[KPHP[m[K 3/4/5 - Multiple Local/Remote Vulnerabilities (2)   | [01;31m[Kphp[m[K/dos/24855.txt
+[01;31m[KPHP[m[K [01;31m[K4.3.9[m[K + [01;31m[Kphp[m[KBB 2.x - 'Unserialize()' Remote Informat | [01;31m[Kphp[m[K/webapps/697.c
+[01;31m[KPHP[m[K < 4.4.5/5.2.1 - 'shmop' Local Code Execution        | linux/local/3426.[01;31m[Kphp[m[K
+[01;31m[KPHP[m[K < 4.4.5/5.2.1 - 'shmop' SSL RSA Private-Key Disclos | linux/local/3427.[01;31m[Kphp[m[K
+[01;31m[KPHP[m[K < 4.4.5/5.2.1 - '_SESSION unset()' Local Overflow   | linux/local/3571.[01;31m[Kphp[m[K
+[01;31m[KPHP[m[K < 4.4.5/5.2.1 - '_SESSION' Deserialization Overwrit | linux/local/3572.[01;31m[Kphp[m[K
+[01;31m[KPHP[m[K < 4.4.5/5.2.1 - [01;31m[KPHP[m[K_binary Session Deserialization  | multiple/local/3413.[01;31m[Kphp[m[K
+[01;31m[KPHP[m[K < 4.4.5/5.2.1 - WDDX Session Deserialization Inform | multiple/local/3414.[01;31m[Kphp[m[K
+[01;31m[KPHP[m[K < 4.5.0 - Unserialize Overflow (Metasploit)         | [01;31m[Kphp[m[K/remote/9939.rb
+[01;31m[KPHP[m[K < 5.3.1 - 'MultiPart/form-data' Denial of Service   | [01;31m[Kphp[m[K/dos/10242.py
+[01;31m[KPHP[m[K < 5.3.12 / < 5.4.2 - CGI Argument Injection         | [01;31m[Kphp[m[K/remote/18836.py
+[01;31m[KPHP[m[K < 5.3.6 'OpenSSL' Extension - 'openssl_decrypt' Cip | [01;31m[Kphp[m[K/dos/35487.[01;31m[Kphp[m[K
+[01;31m[KPHP[m[K < 5.3.6 'OpenSSL' Extension - 'openssl_encrypt' Pla | [01;31m[Kphp[m[K/dos/35486.[01;31m[Kphp[m[K
+[01;31m[KPHP[m[K < 5.3.6 'Zip' Extension - 'zip_fread()' Denial of S | [01;31m[Kphp[m[K/dos/35485.[01;31m[Kphp[m[K
+[01;31m[KPHP[m[K < 5.3.7 - Multiple Null Pointer Dereference Denial  | [01;31m[Kphp[m[K/dos/36070.txt
+[01;31m[KPHP[m[K < 5.6.2 - 'Shellshock' Safe Mode / disable_function | [01;31m[Kphp[m[K/webapps/35146.txt
+[01;31m[KPHP[m[K < 8.3.8 - Remote Code Execution (Unauthenticated) ( | [01;31m[Kphp[m[K/webapps/52047.py
+[01;31m[KPHP[m[K-Nuke < 8.0 - 'sid' SQL Injection                    | [01;31m[Kphp[m[K/webapps/4964.[01;31m[Kphp[m[K
+[01;31m[Kphp[m[KFox < 4.8.13 - (redirect) [01;31m[KPHP[m[K Object Injection Explo | [01;31m[Kphp[m[K/webapps/51799.[01;31m[Kphp[m[K
+[01;31m[KPHP[m[KHoo3 < 5.2.6 - 'viewCat' SQL Injection               | [01;31m[Kphp[m[K/webapps/6091.txt
+[01;31m[KPHP[m[KLib < 7.4 - SQL Injection                            | [01;31m[Kphp[m[K/webapps/43838.txt
+[01;31m[KPHP[m[KMailer < 5.2.18 - Remote Code Execution              | [01;31m[Kphp[m[K/webapps/40968.sh
+[01;31m[KPHP[m[KMailer < 5.2.18 - Remote Code Execution              | [01;31m[Kphp[m[K/webapps/40970.[01;31m[Kphp[m[K
+[01;31m[KPHP[m[KMailer < 5.2.18 - Remote Code Execution              | [01;31m[Kphp[m[K/webapps/40974.py
+[01;31m[KPHP[m[KMailer < 5.2.19 - Sendmail Argument Injection (Metas | multiple/webapps/41688.rb
+[01;31m[KPHP[m[KMailer < 5.2.20 - Remote Code Execution              | [01;31m[Kphp[m[K/webapps/40969.py
+[01;31m[KPHP[m[KMailer < 5.2.20 / SwiftMailer < 5.4.5-DEV / Zend Fra | [01;31m[Kphp[m[K/webapps/40986.py
+[01;31m[KPHP[m[KMailer < 5.2.20 with Exim MTA - Remote Code Executio | [01;31m[Kphp[m[K/webapps/42221.py
+[01;31m[KPHP[m[KMailer < 5.2.21 - Local File Disclosure              | [01;31m[Kphp[m[K/webapps/43056.py
+[01;31m[Kphp[m[KVibe < 4.20 - Persistent Cross-Site Scripting        | [01;31m[Kphp[m[K/webapps/37659.txt
+Pimcore < 5.71 - Unserialize Remote Code Execution (Met | [01;31m[Kphp[m[K/remote/46783.rb
+Pimcore < 5.71 - Unserialize Remote Code Execution (Met | [01;31m[Kphp[m[K/remote/46783.rb
+Plesk < 9.5.4 - Remote Command Execution                | [01;31m[Kphp[m[K/remote/25986.txt
+Pydio / AjaXplorer < 5.0.4 - (Unauthenticated) Arbitrar | [01;31m[Kphp[m[K/webapps/46206.txt
+Redaxo CMS Mediapool Addon < 5.5.1 - Arbitrary File Upl | [01;31m[Kphp[m[K/webapps/44891.txt
+REDCap < 9.1.2 - Cross-Site Scripting                   | [01;31m[Kphp[m[K/webapps/47146.txt
+Responsive FileManager < 9.13.4 - Directory Traversal   | [01;31m[Kphp[m[K/webapps/45271.txt
+Responsive Filemanger <= 9.11.0 - Arbitrary File Disclo | [01;31m[Kphp[m[K/webapps/41272.txt
+RPi Cam Control < 6.3.14 - Multiple Vulnerabilities     | [01;31m[Kphp[m[K/webapps/42638.py
+RPi Cam Control < 6.3.14 - Remote Command Execution     | [01;31m[Kphp[m[K/webapps/42452.py
+RPi Cam Control < 6.4.25 - 'preview.[01;31m[Kphp[m[K' Remote Command | linux/webapps/45361.py
+SeedDMS < 5.1.11 - 'out.GroupMgr.[01;31m[Kphp[m[K' Cross-Site Script | [01;31m[Kphp[m[K/webapps/47024.txt
+SeedDMS < 5.1.11 - 'out.UsrMgr.[01;31m[Kphp[m[K' Cross-Site Scriptin | [01;31m[Kphp[m[K/webapps/47023.txt
+SeedDMS versions < 5.1.11 - Remote Command Execution    | [01;31m[Kphp[m[K/webapps/47022.txt
+Sendroid < 6.5.0 - SQL Injection                        | [01;31m[Kphp[m[K/webapps/43395.[01;31m[Kphp[m[K
+ShoreTel Connect ONSITE < 19.49.1500.0 - Multiple Vulne | [01;31m[Kphp[m[K/webapps/46666.txt
+Silver Peak VXOA < 6.2.11 - Multiple Vulnerabilities    | [01;31m[Kphp[m[K/webapps/38197.txt
+SOLIDserver < 5.0.4 - Local File Inclusion              | [01;31m[Kphp[m[K/webapps/39478.txt
+SwiftMailer < 5.4.5-DEV - Remote Code Execution         | [01;31m[Kphp[m[K/webapps/40972.[01;31m[Kphp[m[K
+Synology Photostation < 6.7.2-3429 - Multiple Vulnerabi | [01;31m[Kphp[m[K/webapps/43844.txt
+UBBCentral UBB.Threads < 6.5.2 Beta - 'mailthread.[01;31m[Kphp[m[K'  | [01;31m[Kphp[m[K/webapps/1069.[01;31m[Kphp[m[K
+Western Digital Arkeia < 10.0.10 - Remote Code Executio | [01;31m[Kphp[m[K/remote/28407.rb
+WordPress Core < 4.7.1 - Username Enumeration           | [01;31m[Kphp[m[K/webapps/41497.[01;31m[Kphp[m[K
+WordPress Core < 4.9.6 - (Authenticated) Arbitrary File | [01;31m[Kphp[m[K/webapps/44949.txt
+WordPress Core < 5.3.x - 'xmlrpc.[01;31m[Kphp[m[K' Denial of Service | [01;31m[Kphp[m[K/dos/47800.py
+WordPress File Upload Plugin < 4.23.3 - Stored XSS      | [01;31m[Kphp[m[K/webapps/51899.txt
+WordPress Plugin Database Backup < 5.2 - Remote Code Ex | [01;31m[Kphp[m[K/remote/47187.rb
+WordPress Plugin DZS Videogallery < 8.60 - Multiple Vul | [01;31m[Kphp[m[K/webapps/39553.txt
+WordPress Plugin EZ SQL Reports < 4.11.37 - Multiple Vu | [01;31m[Kphp[m[K/webapps/38176.txt
+WordPress Plugin iThemes Security < 7.0.3 - SQL Injecti | [01;31m[Kphp[m[K/webapps/44943.txt
+WordPress Plugin Rest Google Maps < 7.11.18 - SQL Injec | [01;31m[Kphp[m[K/webapps/48918.sh
+WordPress Plugin User Role Editor < 4.25 - Privilege Es | [01;31m[Kphp[m[K/webapps/44595.rb
+WordPress Plugin Userpro < 4.9.17.1 - Authentication By | [01;31m[Kphp[m[K/webapps/43117.txt
+WordPress Plugin UserPro < 4.9.21 - User Registration P | [01;31m[Kphp[m[K/webapps/46083.txt
+You[01;31m[KPHP[m[KTube<= 7.8 - Multiple Vulnerabilities             | [01;31m[Kphp[m[K/webapps/51101.txt
+-------------------------------------------------------- ---------------------------------
+Shellcodes: No Results

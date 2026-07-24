@@ -1,0 +1,10 @@
+# Nmap 7.99SVN scan initiated Fri Jul 24 13:07:59 2026 as: nmap -sV -p111 -oN scans/rpc/01_rpc_version.txt 192.168.217.136
+Nmap scan report for 192.168.217.136
+Host is up (0.00053s latency).
+
+PORT    STATE SERVICE VERSION
+111/tcp open  rpcbind 2 (RPC #100000)
+MAC Address: 00:0C:29:53:19:4C (VMware)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Jul 24 13:08:05 2026 -- 1 IP address (1 host up) scanned in 6.96 seconds

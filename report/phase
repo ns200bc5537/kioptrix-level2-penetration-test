@@ -1,0 +1,3 @@
+### RPC Enumeration
+
+RPC enumeration confirmed that port 111 was running rpcbind. Additional enumeration identified the rpc.statd service but no NFS-related services. Public exploit research returned only Denial of Service vulnerabilities, making RPC a low-priority attack vector for this assessment.
