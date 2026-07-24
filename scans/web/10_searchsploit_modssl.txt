@@ -1,0 +1,11 @@
+-------------------------------------------------------- ---------------------------------
+ Exploit Title                                          |  Path
+-------------------------------------------------------- ---------------------------------
+Apache [01;31m[Kmod_ssl[m[K 2.0.x - Remote Denial of Service         | linux/dos/24590.txt
+Apache [01;31m[Kmod_ssl[m[K 2.8.x - Off-by-One HTAccess Buffer Overf | multiple/dos/21575.txt
+Apache [01;31m[Kmod_ssl[m[K < 2.8.7 OpenSSL - 'OpenFuck.c' Remote Bu | unix/remote/21671.c
+Apache [01;31m[Kmod_ssl[m[K < 2.8.7 OpenSSL - 'OpenFuckV2.c' Remote  | unix/remote/47080.c
+Apache [01;31m[Kmod_ssl[m[K < 2.8.7 OpenSSL - 'OpenFuckV2.c' Remote  | unix/remote/764.c
+Apache [01;31m[Kmod_ssl[m[K OpenSSL < 0.9.6d / < 0.9.7-beta2 - 'open | unix/remote/40347.txt
+-------------------------------------------------------- ---------------------------------
+Shellcodes: No Results

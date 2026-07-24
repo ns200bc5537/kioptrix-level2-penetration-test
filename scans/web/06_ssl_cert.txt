@@ -1,0 +1,19 @@
+# Nmap 7.99SVN scan initiated Fri Jul 24 13:17:01 2026 as: nmap --script ssl-cert -p443 -oN scans/web/06_ssl_cert.txt 192.168.217.136
+Nmap scan report for 192.168.217.136
+Host is up (0.00043s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+| ssl-cert: Subject: commonName=localhost.localdomain/organizationName=SomeOrganization/stateOrProvinceName=SomeState/countryName=--
+| Issuer: commonName=localhost.localdomain/organizationName=SomeOrganization/stateOrProvinceName=SomeState/countryName=--
+| Public Key type: rsa
+| Public Key bits: 1024
+| Signature Algorithm: md5WithRSAEncryption
+| Not valid before: 109-10-08T00:10:47
+| Not valid after:  110-10-08T00:10:47
+| MD5:     01de 29f9 fbfb 2eb2 beaf e624 3157 090f
+| SHA-1:   560c 9196 6506 fb0f fb81 66b1 ded3 ac11 2ed4 808a
+|_SHA-256: 5c68 d00c 4866 d81f 6651 99d5 c2da 7e8a 90b6 a3fb 57ca 42a3 3215 6197 26d0 2cd7
+MAC Address: 00:0C:29:53:19:4C (VMware)
+
+# Nmap done at Fri Jul 24 13:17:02 2026 -- 1 IP address (1 host up) scanned in 1.14 seconds
