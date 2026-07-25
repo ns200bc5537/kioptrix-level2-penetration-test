@@ -1,0 +1,9 @@
+# Nmap 7.99SVN scan initiated Fri Jul 24 23:58:45 2026 as: nmap -sU -p53 -oN scans/dns/02_dns_udp.txt 192.168.217.136
+Nmap scan report for 192.168.217.136
+Host is up (0.00070s latency).
+
+PORT   STATE  SERVICE
+53/udp closed domain
+MAC Address: 00:0C:29:53:19:4C (VMware)
+
+# Nmap done at Fri Jul 24 23:58:46 2026 -- 1 IP address (1 host up) scanned in 0.82 seconds

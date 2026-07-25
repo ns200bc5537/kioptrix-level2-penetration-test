@@ -1,0 +1,9 @@
+# Nmap 7.99SVN scan initiated Fri Jul 24 23:36:48 2026 as: nmap --script smb-security-mode -p445 -oN scans/smb/02_smb_security.txt 192.168.217.136
+Nmap scan report for 192.168.217.136
+Host is up (0.00067s latency).
+
+PORT    STATE  SERVICE
+445/tcp closed microsoft-ds
+MAC Address: 00:0C:29:53:19:4C (VMware)
+
+# Nmap done at Fri Jul 24 23:36:48 2026 -- 1 IP address (1 host up) scanned in 0.75 seconds

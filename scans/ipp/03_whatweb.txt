@@ -1,0 +1,1 @@
+[1m[34mhttp://192.168.217.136:631[0m [403 Forbidden] [1mCUPS[0m[[1m[32m1.1[0m], [1mContent-Language[0m[[0m[22men_US[0m], [1mCountry[0m[[0m[22mRESERVED[0m][[1m[31mZZ[0m], [1mHTTPServer[0m[[1m[36mCUPS/1.1[0m], [1mIP[0m[[0m[22m192.168.217.136[0m], [1mTitle[0m[[1m[33m403 Forbidden[0m], [1mUncommonHeaders[0m[[0m[22mupgrade[0m]

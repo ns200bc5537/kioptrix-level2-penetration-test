@@ -1,0 +1,146 @@
+# Kioptrix Level 1.1 - Reconnaissance & Enumeration
+
+## Overview
+
+This repository documents the reconnaissance and enumeration phase performed against the Kioptrix Level 1.1 vulnerable machine.
+
+The objective of this project was to identify exposed services, enumerate available resources, fingerprint technologies, and research potential attack vectors without performing exploitation.
+
+This repository focuses only on the information gathering stage of a penetration test.
+
+---
+
+## Objectives
+
+- Discover live hosts
+- Identify open ports
+- Enumerate running services
+- Detect software versions
+- Fingerprint web technologies
+- Enumerate SMB services
+- Analyze SSL configuration
+- Research publicly known vulnerabilities
+
+---
+
+## Methodology
+
+Reconnaissance
+
+↓
+
+Host Discovery
+
+↓
+
+Port Scanning
+
+↓
+
+Service Enumeration
+
+↓
+
+Version Detection
+
+↓
+
+Web Enumeration
+
+↓
+
+SSL Enumeration
+
+↓
+
+SMB Enumeration
+
+↓
+
+Technology Fingerprinting
+
+↓
+
+Vulnerability Research
+
+---
+
+## Tools Used
+
+- Nmap
+- Nikto
+- WhatWeb
+- Enum4linux
+- Curl
+- OpenSSL
+- Searchsploit
+- Firefox
+
+---
+
+## Skills Demonstrated
+
+- Network Reconnaissance
+- Service Enumeration
+- Web Enumeration
+- SSL Analysis
+- SMB Enumeration
+- Technology Fingerprinting
+- Vulnerability Research
+- Attack Surface Analysis
+
+---
+
+## Repository Contents
+
+report/
+
+Professional penetration testing report.
+
+notes/
+
+Detailed notes explaining every command, why it was used, and key observations.
+
+scans/
+
+Raw outputs generated during enumeration.
+
+screenshots/
+
+Evidence collected during the assessment.
+
+---
+
+## Scope
+
+✔ Reconnaissance
+
+✔ Enumeration
+
+❌ Initial Access
+
+❌ Exploitation
+
+❌ Privilege Escalation
+
+❌ Post Exploitation
+
+---
+
+## Next Project
+
+The next repository will focus on:
+
+- Vulnerability Validation
+- Initial Access
+- Exploit Development
+- Reverse Shell
+- Privilege Escalation
+- Root Access
+- Post Exploitation
+
+---
+
+## Disclaimer
+
+This project was performed in a controlled laboratory environment for educational purposes only.
